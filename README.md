@@ -9,7 +9,7 @@ https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_4
 * 
 
 ## Team members
-* Cristiano
+* Cristiano Perrone
 * Gabriele Volzone volzone.1917002@studenti.uniroma1.it
 * Sohrab Parsa
 * Laura López 2125723. laura.lopez@alumni.esci.upf.edu
