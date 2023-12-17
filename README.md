@@ -6,7 +6,7 @@ https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_4
 ## Content of the repository
 * `main.ipynb`: Main code cotaining the solutions of the exercises
 * `CommandLine.sh` : Code for the comandline question
-* 
+* `modules`: Contains functions used in the exercises
 
 ## Team members
 * Cristiano Perrone
